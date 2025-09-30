@@ -1,3 +1,9 @@
-Hello how are you?
-i am fine
-welcome to the GEN AI journey
+Hello World!
+this is a new line.Append p=operation taking place!Append operation taking place!Append operation taking place!
+Append operation taking place!
+Append operation taking place!
+Append operation taking place!
+Append operation taking place!
+First line
+second line
+Third line
